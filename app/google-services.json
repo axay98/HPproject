@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "387723294073",
+    "firebase_url": "https://rivchar-2355d.firebaseio.com",
+    "project_id": "rivchar-2355d",
+    "storage_bucket": "rivchar-2355d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387723294073:android:374b4af11ea6d701",
+        "android_client_info": {
+          "package_name": "com.hieuapp.rivchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387723294073-mt2tscdt5623dl6ed3go96kak9d3jj7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHN7a99avenq5mm8UahvCoTaQ4uPb20tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387723294073-mt2tscdt5623dl6ed3go96kak9d3jj7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
